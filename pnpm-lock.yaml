@@ -2277,7 +2277,7 @@ importers:
       codemirror: ^5.62.0
       create-context-state: ^2.0.0-beta.11
       diffable-html: ^5.0.0
-      globby: ^11.0.4
+      globby: ^13.0.0
       html-escaper: ^3.0.3
       is-ci: ^3.0.0
       postcss: '>= 8.0.0'
@@ -2327,7 +2327,7 @@ importers:
       codemirror: 5.63.3
       create-context-state: link:../create-context-state
       diffable-html: 5.0.0
-      globby: 11.1.0
+      globby: 13.1.2
       html-escaper: 3.0.3
       is-ci: 3.0.1
       react: 18.0.0
@@ -2526,7 +2526,7 @@ importers:
       execa: ^6.1.0
       exit: ^0.1.2
       fs-extra: ^10.0.0
-      globby: ^11.0.4
+      globby: ^13.0.0
       got: ^11.8.1
       inquirer: ^8.1.2
       is-builtin-module: ^3.0.0
@@ -2598,7 +2598,7 @@ importers:
       execa: 6.1.0
       exit: 0.1.2
       fs-extra: 10.1.0
-      globby: 11.1.0
+      globby: 13.1.2
       got: 11.8.2
       inquirer: 8.2.0
       is-builtin-module: 3.1.0
@@ -17553,7 +17553,6 @@ packages:
       ignore: 5.2.0
       merge2: 1.4.1
       slash: 4.0.0
-    dev: true
 
   /globby/9.2.0:
     resolution: {integrity: sha512-ollPHROa5mcxDEkwg6bPt3QbEf4pDQSNtd6JPL1YvOvAo/7/0VAm9TccUeoTmarjPw4pfUthSCqcyfNB1I3ZSg==}
