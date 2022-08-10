@@ -264,7 +264,7 @@ importers:
       '@remirror/pm': ^2.0.0-beta.13
       '@testing-library/dom': ^8.13.0
       '@types/stringify-object': ^3.3.1
-      chalk: ^4.1.0
+      chalk: ^5.0.0
       jest: ^28.1.1
       jest-matcher-utils: ^28.1.1
       prosemirror-schema-basic: ^1.2.0
@@ -281,7 +281,7 @@ importers:
       '@remirror/pm': link:../remirror__pm
       '@testing-library/dom': 8.13.0
       '@types/stringify-object': 3.3.1
-      chalk: 4.1.2
+      chalk: 5.0.1
       jest-matcher-utils: 28.1.1
       prosemirror-schema-basic: 1.2.0
       prosemirror-tables: 1.2.4
@@ -2515,7 +2515,7 @@ importers:
       '@types/throttle-debounce': ^2.1.0
       autoprefixer: ^10.3.1
       camelcase-keys: ^7.0.0
-      chalk: ^4.1.0
+      chalk: ^5.0.0
       cheerio: ^1.0.0-rc.10
       cpy: ^8.1.1
       detect-port: ^1.3.0
@@ -2587,7 +2587,7 @@ importers:
       '@types/throttle-debounce': 2.1.0
       autoprefixer: 10.4.7_postcss@8.4.14
       camelcase-keys: 7.0.1
-      chalk: 4.1.2
+      chalk: 5.0.1
       cheerio: 1.0.0-rc.12
       cpy: 8.1.2
       detect-port: 1.3.0
@@ -12681,6 +12681,11 @@ packages:
     dependencies:
       ansi-styles: 4.3.0
       supports-color: 7.2.0
+
+  /chalk/5.0.1:
+    resolution: {integrity: sha512-Fo07WOYGqMfCWHOzSXOt2CxDbC6skS/jO9ynEcmpANMoPrD+W1r1K6Vx7iNm+AQmETU1Xr2t+n8nzkV9t6xh3w==}
+    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+    dev: false
 
   /char-regex/1.0.2:
     resolution: {integrity: sha512-kWWXztvZ5SBQV+eRgKFeh8q5sLuZY2+8WUIzlxWVTg+oGwY14qylx1KbKzHd8P6ZYkAg0xyIDU9JMHhyJMZ1jw==}
