@@ -1,5 +1,17 @@
 # @remirror/extension-annotation
 
+## 2.0.8
+
+> 2022-10-18
+
+### Patch Changes
+
+- Update dependencies.
+- Updated dependencies
+  - @remirror/pm@2.0.1
+  - @remirror/core@2.0.7
+  - @remirror/extension-positioner@2.0.8
+
 ## 2.0.7
 
 > 2022-10-11

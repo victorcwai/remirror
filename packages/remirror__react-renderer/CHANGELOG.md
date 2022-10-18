@@ -1,5 +1,15 @@
 # @remirror/react-renderer
 
+## 2.0.7
+
+> 2022-10-18
+
+### Patch Changes
+
+- Update dependencies.
+- Updated dependencies
+  - @remirror/core@2.0.7
+
 ## 2.0.6
 
 > 2022-10-11

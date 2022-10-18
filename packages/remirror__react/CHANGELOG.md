@@ -1,5 +1,23 @@
 # @remirror/react
 
+## 2.0.13
+
+> 2022-10-18
+
+### Patch Changes
+
+- Update dependencies.
+- Updated dependencies
+  - @remirror/extension-placeholder@2.0.7
+  - @remirror/extension-positioner@2.0.8
+  - @remirror/extension-react-component@2.0.7
+  - @remirror/extension-react-tables@2.1.1
+  - @remirror/preset-react@2.0.7
+  - @remirror/react-components@2.0.11
+  - @remirror/react-core@2.0.8
+  - @remirror/react-hooks@2.0.11
+  - @remirror/react-renderer@2.0.7
+
 ## 2.0.12
 
 > 2022-10-14

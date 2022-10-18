@@ -1,5 +1,15 @@
 # @remirror/core-utils
 
+## 2.0.7
+
+> 2022-10-18
+
+### Patch Changes
+
+- Update dependencies.
+- Updated dependencies
+  - @remirror/pm@2.0.1
+
 ## 2.0.6
 
 > 2022-10-11

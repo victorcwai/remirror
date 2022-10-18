@@ -1,5 +1,23 @@
 # @remirror/react-hooks
 
+## 2.0.11
+
+> 2022-10-18
+
+### Patch Changes
+
+- Update dependencies.
+- Updated dependencies
+  - @remirror/pm@2.0.1
+  - @remirror/core@2.0.7
+  - @remirror/extension-emoji@2.0.10
+  - @remirror/extension-events@2.1.7
+  - @remirror/extension-history@2.0.7
+  - @remirror/extension-mention@2.0.8
+  - @remirror/extension-mention-atom@2.0.8
+  - @remirror/extension-positioner@2.0.8
+  - @remirror/react-core@2.0.8
+
 ## 2.0.10
 
 > 2022-10-11

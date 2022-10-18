@@ -1,5 +1,13 @@
 # prosemirror-paste-rules
 
+## 2.0.1
+
+> 2022-10-18
+
+### Patch Changes
+
+- Update dependencies.
+
 ## 2.0.0
 
 > 2022-09-13
