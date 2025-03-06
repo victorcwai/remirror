@@ -50,7 +50,7 @@
     "@remirror/messages": "^2.0.1",
     "@remirror/theme": "^2.0.1",
     "@types/refractor": "^3.0.2",
-    "refractor": "^3.3.1"
+    "refractor": "^4.7.0"
   },
   "devDependencies": {
     "@remirror/pm": "^2.0.0",
