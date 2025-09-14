@@ -35,8 +35,8 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.13.10",
-    "@remirror/core": "^2.0.6",
-    "@remirror/extension-events": "^2.1.6",
+    "@remirror/core": "^3.0.0",
+    "@remirror/extension-events": "^3.0.0",
     "@remirror/messages": "^2.0.1",
     "extract-domain": "2.2.1"
   },
