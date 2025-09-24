@@ -90,7 +90,7 @@
     "jest-diff": "^28.1.1",
     "jest-worker": "^28.1.1",
     "keyv": "^4.0.3",
-    "keyv-file": "^0.2.0",
+    "keyv-file": "^0.3.3",
     "load-json-file": "^6.2.0",
     "lodash.groupby": "^4.6.0",
     "lodash.isequal": "^4.5.0",
